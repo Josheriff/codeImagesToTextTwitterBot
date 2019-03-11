@@ -1,0 +1,8 @@
+#virtualenv
+.venv
+
+#vscode
+.vscode
+
+#MAC
+.DS_Store
