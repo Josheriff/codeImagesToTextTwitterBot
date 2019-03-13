@@ -6,3 +6,9 @@
 
 #MAC
 .DS_Store
+
+#images
+image.jpg
+
+#cython files
+*.pyc
